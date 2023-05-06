@@ -1,0 +1,6 @@
+cook
+bake
+fry eggs
+fix
+play
+shower
